@@ -1,0 +1,15 @@
+/*CSS reset settings here*/
+* {
+	padding: 0;
+	margin: 0;
+	/*outline: 1px dotted red;*/
+}
+#wrapper{
+ width: 510px;
+ background-color: #171717;
+ margin: 0px auto;
+ padding: 5px;
+}
+div.main{
+	background-clip: purple;
+}
